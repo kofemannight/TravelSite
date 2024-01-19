@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'InterBold';
+	src: local('InterBold'),
+		url('../fonts/InterBold.woff2') format('woff2'), 
+		url('/fonts/InterBold.otf') format('otf')
+}
+@font-face {
+	font-family: 'InterMedium';
+	src: local('InterMedium'),
+		url('../fonts/InterMedium.woff2') format('woff2'), 
+		url('/fonts/InterMedium.otf') format('otf')
+}
+@font-face {
+	font-family: 'InterRegular';
+	src: local('InterRegular'),
+		url('../fonts/InterRegular.woff2') format('woff2'), 
+		url('/fonts/InterRegular.otf') format('otf')
+}
+@font-face {
+	font-family: 'InterSemiBold';
+	src: local('InterSemiBold'),
+		url('../fonts/InterSemiBold.woff2') format('woff2'), 
+		url('/fonts/InterSemiBold.otf') format('otf')
+}
+@font-face {
+	font-family: 'Mulish';
+	src: local('Mulish'),
+		url('../fonts/Mulish.woff2') format('woff2'), 
+		url('/fonts/Mulish.ttf') format('ttf')
+}
+@font-face {
+	font-family: 'PlayfairDisplay';
+	src: local('PlayfairDisplay'),
+		url('../fonts/PlayfairDisplay.woff2') format('woff2'), 
+		url('/fonts/PlayfairDisplay.ttf') format('ttf')
+}
