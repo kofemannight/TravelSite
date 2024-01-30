@@ -21,6 +21,10 @@ a:hover  {
     text-decoration: none;
 }
 
+*:focus {
+	outline: none;
+}
+
 /* Common */
 
 aside, nav, footer, header, section, main {
